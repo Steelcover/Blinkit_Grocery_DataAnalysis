@@ -17,8 +17,8 @@ Number of Items: The total count of different items sold.
 Average Rating: The average customer rating for items sold. 
 
 # 🔍 Features & Tools Used
-Pivot Tables & Pivot Charts
-Interactive Slicers & Filters
-Conditional Formatting
-Data Cleaning within Excel
-Clean and Professional Dashboard Layout 
+# Pivot Tables & Pivot Charts
+# Interactive Slicers & Filters
+# Conditional Formatting
+# Data Cleaning within Excel
+# Clean and Professional Dashboard Layout 
